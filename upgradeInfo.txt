@@ -1,7 +1,7 @@
 {
   "update": "Yes",
-  "new_version": "1.1.8",
-  "apk_file_url": "http://shouji.360tpcdn.com/180822/368841dc2f75644f91d304525eba1276/com.changingstudy.studygame_152.apk",
+  "new_version": "1.2.0",
+  "apk_file_url": "http://shouji.360tpcdn.com/180910/4dcacdcbfee0dba25034828c393df658/com.changingstudy.studygame_156.apk",
   "update_log": "1，测试android升级。\r\n",
   "target_size": "150M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
