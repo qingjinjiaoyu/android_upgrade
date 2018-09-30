@@ -1,7 +1,7 @@
 {
   "update": "Yes",
   "new_version": "2.0.1",
-  "apk_file_url": "http://pay.changingstudy.com/down_app/",
+  "apk_file_url": "http://study.changingstudy.com/down_app/",
   "update_log": "1、调整部分界面，适配手机端；\r\n2、优化个人中心内按钮效果。\r\n",
   "target_size": "187.5M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
