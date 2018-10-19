@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.0.2",
+  "new_version": "2.0.3",
   "apk_file_url": "http://study.changingstudy.com/down_app/",
-  "update_log": "1、点击未激活课程，将展示课程的相关信息及购买链接；\r\n2、相册更新，现在可以分享视频了，翻页动作更逼真;\r\n3、更换了新的背景音乐;\r\n4、调整部分界面，适配手机端;\r\n5、图片显示适配不同的窗口，不再被挤压变形。\r\n",
-  "target_size": "261.6M",
+  "update_log": "1、修改试玩关卡的背景音乐。\r\n",
+  "target_size": "268.8M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
