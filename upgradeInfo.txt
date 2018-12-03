@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.0.3",
+  "new_version": "2.0.4",
   "apk_file_url": "http://study.changingstudy.com/down_app/",
-  "update_log": "1、修改试玩关卡的背景音乐。\r\n",
-  "target_size": "268.8M",
+  "update_log": "1、去掉app的绑定更改，避免账号被盗；如有更改需求，请联系客服；\r\n2、优化4、5岁课程的展示效果（导航栏、新手引导等），让小龄宝贝使用更顺畅；\r\n3、增加app和小程序（家长端）关联，作品上传可以通过微信小程序完成啦。\r\n",
+  "target_size": "259.02M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
