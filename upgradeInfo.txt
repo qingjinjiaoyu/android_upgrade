@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.0.5",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.0.5_168.apk",
-  "update_log": "1、新增课程《神秘紧急任务》。\r\n",
-  "target_size": "260.21M",
+  "new_version": "2.0.6",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.0.6_170.apk",
+  "update_log": "1、《小小工程师》新增课程《米亚达》。\r\n",
+  "target_size": "267.92M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
