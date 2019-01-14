@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.0.6",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.0.6_172.apk",
-  "update_log": "1、《小小工程师》新增课程《米亚达》。\r\n",
-  "target_size": "269.59M",
+  "new_version": "2.0.7",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.0.7_174.apk",
+  "update_log": "1、介绍页链接、图片优化；\r\n2、主页面功能按钮优化；\r\n3、退出登录功能移动至个人中；\r\n4、优化账号登录功能。\r\n",
+  "target_size": "271.61M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
