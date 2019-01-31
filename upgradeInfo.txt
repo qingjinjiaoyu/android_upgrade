@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.0.7",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.0.7_174.apk",
-  "update_log": "1、介绍页链接、图片优化；\r\n2、主页面功能按钮优化；\r\n3、退出登录功能移动至个人中；\r\n4、优化账号登录功能。\r\n",
-  "target_size": "271.61M",
+  "new_version": "2.0.8",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.0.8_176.apk",
+  "update_log": "1、主页面调整；\r\n2、新增《小小发明家-巨人的家园》课程；\r\n3、新增《新生专属课程》；\r\n4、《机械世界》、《智能世界》增加知识点显示；\r\n",
+  "target_size": "160.34M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
