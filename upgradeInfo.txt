@@ -5,5 +5,5 @@
   "update_log": "1、新春贺礼：《机器人大讲堂》可以在app中学习了！；\r\n",
   "target_size": "162.04M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
-  "constraint": true
+  "constraint": false
 }
