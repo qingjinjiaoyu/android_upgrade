@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.0.9",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.0.9_180.apk",
-  "update_log": "1、新春贺礼：《机器人大讲堂》可以在app中学习了！；\r\n",
-  "target_size": "162.04M",
+  "new_version": "2.0.10",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.0.10_182.apk",
+  "update_log": "1、添加“我的课程”功能，可在“个人中心”对已激活的课程进行管理；\r\n2、新增新激活课程的引导流程；\r\n3、优化自动更新功能。\r\n",
+  "target_size": "129.35M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
