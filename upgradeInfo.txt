@@ -1,7 +1,7 @@
 {
   "update": "Yes",
   "new_version": "2.0.12",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.0.12_186.apk",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.0.12_188.apk",
   "update_log": "1.修复勋章无法获取的问题;\r\n2.优化上课流程，使其更流畅。\r\n",
   "target_size": "129.35M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
