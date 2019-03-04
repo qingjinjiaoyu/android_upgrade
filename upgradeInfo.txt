@@ -1,8 +1,8 @@
 {
   "update": "Yes",
-  "new_version": "2.0.11",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.0.11_184.apk",
-  "update_log": "1、修复部分移动端部分关卡不能进入问题。\r\n",
+  "new_version": "2.0.12",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.0.12_186.apk",
+  "update_log": "1.修复勋章无法获取的问题;\r\n2.优化上课流程，使其更流畅。\r\n",
   "target_size": "129.35M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
