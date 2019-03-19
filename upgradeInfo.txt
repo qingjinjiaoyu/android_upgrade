@@ -1,9 +1,9 @@
 {
   "update": "Yes",
   "new_version": "2.1.0",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.1.0_190.apk",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.1.0_192.apk",
   "update_log": "1.《小小发明家5+》新增课程《军事基地》;\r\n2.成长模式新增《VEX课程》。\r\n",
-  "target_size": "132.67M",
+  "target_size": "132.65M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
