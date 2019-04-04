@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.1.1",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.1.1_194.apk",
-  "update_log": "1.部分功能优化。\r\n",
-  "target_size": "132.65M",
+  "new_version": "2.1.2",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.1.2_196.apk",
+  "update_log": "1.增加绑定关注功能，家长可以第一时间通过微信公众号收到孩子上传的作品以及老师的评语了哦！\r\n",
+  "target_size": "132.95M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
