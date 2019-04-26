@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.1.2",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.1.2_196.apk",
-  "update_log": "1.增加绑定关注功能，家长可以第一时间通过微信公众号收到孩子上传的作品以及老师的评语了哦！\r\n",
-  "target_size": "132.95M",
+  "new_version": "2.1.3",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.1.3_198.apk",
+  "update_log": "1.《小小工程师——动物世界》课程开放\r\n2.挑战模式蓄力中，5月上线敬请期待\r\n3.新增消息中心功能\r\n",
+  "target_size": "135.76M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
