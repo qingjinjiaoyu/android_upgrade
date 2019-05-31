@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.1.3",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.1.3_198.apk",
-  "update_log": "1.《小小工程师——动物世界》课程开放\r\n2.挑战模式蓄力中，5月上线敬请期待\r\n3.新增消息中心功能\r\n",
-  "target_size": "135.76M",
+  "new_version": "2.1.4",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.1.4_200.apk",
+  "update_log": "1.机械世界挑战模式开放\r\n2.挑战模式新增“我的作品”功能\r\n3.挑战模式新增“优秀作品”功能\r\n4.智能世界挑战模式蓄力中\r\n",
+  "target_size": "139.98M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
