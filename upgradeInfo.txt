@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.1.5",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.1.5_202.apk",
-  "update_log": "1.搭建卡新增展示总零件列表\r\n2.消息通知功能优化\r\n3.修复部分bug\r\n",
-  "target_size": "139.01M",
+  "new_version": "2.1.6",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.1.6_204.apk",
+  "update_log": "1.搭建卡内零件列表上线\r\n",
+  "target_size": "139.04M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
