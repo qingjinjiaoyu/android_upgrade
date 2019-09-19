@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.1.8",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.1.8_208.apk",
-  "update_log": "1.封面图片风格统一\r\n2.考级包课程上线准备中\r\n3.fixed:考卷提交。\r\n",
-  "target_size": "138.96M",
+  "new_version": "2.1.9",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.1.9_210.apk",
+  "update_log": "1.增加机械世界试听课一\r\n",
+  "target_size": "139.14M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
