@@ -1,9 +1,9 @@
 {
   "update": "Yes",
-  "new_version": "2.1.9",
-  "apk_file_url": "https://down.changingstudy.com/TO_2.1.9_210.apk",
-  "update_log": "1.增加机械世界试听课一\r\n",
-  "target_size": "139.14M",
+  "new_version": "2.2.0",
+  "apk_file_url": "https://down.changingstudy.com/TO_2.2.0_212.apk",
+  "update_log": "1.增加激活课程功能一\r\n",
+  "target_size": "139.18M",
   "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
   "constraint": true
 }
